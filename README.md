@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tekpill
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently learning data structure and algo
+- 💞️ I’m looking to collaborate on coding puzzles
+- 📫 How to reach me - discord @tekpill#4142
